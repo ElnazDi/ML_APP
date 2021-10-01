@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<!----------------------------------------------- Head --------------------------------------------->  
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="Foods, Vegetables, Diary, Shop">
+  <meta name="description" content="Smart Web application for online purchasing all over Germany">
+  <meta name="author" content="Elnaz Dehkharghani, Astha Kumari, Rohan Antony, Bina Khatnani, Paolo Vega">
+	<title>Smart Shop | Register</title>
+  <link rel="shortcut icon" type="image/png" href="img/favicon-32x32.png"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link href="style.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+</head>
+
+<!---------------------------------------------- body ----------------------------------------------->
+<div class="container-fluid">
+<body>
+
+<!-- Navigation -->
+<div class="row">
+
+<div class="container-fluid">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark" >
+    <!-- Brand/logo -->
+    <a class="navbar-brand" href="#" style="margin-left: 3%;">
+      <img src="img/logo.png" alt="logo" style="width:250px;">
+    </a>
+    
+    <!-- Links -->
+    <ul class="navbar-nav">
+      <li class="nav-item active" >
+        <a class="nav-link" href="index.html" style="font-size: larger;">Home</a>
+      </li>
+    </ul>
+
+
+</nav>
+</div>
+</div>
+<!------------------------------------- Login ------------------------------------->
+
+<div class="container-fluid">
+  
+  <div class="row d-flex justify-content-center">
+    <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 backsecond">
+      <div class="backcolor">
+      
+      <h3 Style="color:#43d36e; margin-left:40%;">Register</h3>
+      
+      <form action="#">   
+          <!--First Name-->
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <p style="color: aliceblue;">First Name:</p>
+            <input type="text" class="form-control" placeholder="First Name" style="color: black;" required>  
+            </div>
+
+          <!--Last Name-->
+
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <p style="color: aliceblue;">Last Name:</p>
+            <input type="text" class="form-control" placeholder="Last Name" style="color: black;" required>  
+            </div>
+
+          <!-- Gender -->
+
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <label for="gender" style="color: aliceblue;">Gender:</label>  <br>
+
+            <select name="gender" id="gender" class="form-control" required>
+                <option value="female">Female</option>
+                <option value="male">Male</option>
+                <option value="other">Other</option>
+            </select>
+            </div>
+      
+
+          <!-- Date of Birth -->
+
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <span style="color: aliceblue;">Date of Birth</span>  
+            <input type="date" class="form-control" style="color: black;" required>  
+            </div>
+          <!-- Place of Birth-->
+                          <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+                            <label for="country" style="color: aliceblue;">Nationality:</label>     
+                            <select id="country" name="country" class="form-control" required>
+                              <option value="Afghanistan">Country 1</option>
+                              <option value="Åland Islands">Country 2</option>
+                          </select>    
+                        </div>
+
+            <!--Phone Number-->
+            <div class="col-md-12 col-sm-12 textup" style="padding-top:0%">
+            <label for="phone" style="color: aliceblue;">Phone number:</label>
+            <input type="tel" class="form-control" placeholder="+36-777-44-225" id="phone" name="phone" pattern="" required>            
+            </div>
+
+            <!--Email/Username-->
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <label for="phone" style="color: aliceblue;">Email:</label>
+            <input type="email" class="form-control" placeholder="Email" style="color: black;" required>  
+            </div>
+            
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <label for="phone" style="color: aliceblue;">Password:</label>
+            <input type="password" class="form-control" placeholder="Password" style="color: black;" required>  
+            </div>
+
+            <div class="col-md-12 col-sm-12 textup" style="padding-top: 0%;">
+            <label for="phone" style="color: aliceblue;">Repeat Password:</label>
+            <input type="password" class="form-control" placeholder="Repeat Password" style="color: black;" required>  
+            </div>
+            
+            <div class="col-md-12 col-sm-12 textup">
+            <a href="#"><button type="btn" class="btn-signup form-control">Sign Up</button></a><br>
+            <p align="center" style="font-size:13px; color:white;">Already Have a Account ? <a href="login.html" style="color:#43d36e;; font-weight:bold;">Sign In</a></p>
+            </div>
+          
+          </form>
+      
+      </div>
+    </div>
+  </div>
+</div>
+<!--------------------------------------------------- Footer -------------------------------------------->
+<footer class="bg-dark text-center text-white">
+  <!-- Grid container -->
+
+  <!-- Grid container -->
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2021 Copyright:
+    <a class="text-white" href="#">smart shop</a>
+  </div>
+   <!-- Copyright -->
+
+</footer>
+
+
+</body>
+</html>
+
+
+
+
+
+
+

@@ -1,0 +1,1035 @@
+[2021-08-30 09:21:22,439] {processor.py:162} INFO - Started process (PID=6508) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:21:22,440] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:21:22,441] {logging_mixin.py:109} INFO - [2021-08-30 09:21:22,440] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:21:22,456] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:21:22,761] {logging_mixin.py:109} INFO - [2021-08-30 09:21:22,761] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:21:22,775] {logging_mixin.py:109} INFO - [2021-08-30 09:21:22,775] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:21:22,787] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.351 seconds
+[2021-08-30 09:21:52,876] {processor.py:162} INFO - Started process (PID=6635) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:21:52,878] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:21:52,879] {logging_mixin.py:109} INFO - [2021-08-30 09:21:52,879] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:21:52,892] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:21:52,903] {logging_mixin.py:109} INFO - [2021-08-30 09:21:52,903] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:21:52,912] {logging_mixin.py:109} INFO - [2021-08-30 09:21:52,912] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:21:52,927] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.054 seconds
+[2021-08-30 09:22:23,369] {processor.py:162} INFO - Started process (PID=6648) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:22:23,371] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:22:23,372] {logging_mixin.py:109} INFO - [2021-08-30 09:22:23,372] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:22:23,397] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:22:23,416] {logging_mixin.py:109} INFO - [2021-08-30 09:22:23,416] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:22:23,428] {logging_mixin.py:109} INFO - [2021-08-30 09:22:23,428] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:22:23,442] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.077 seconds
+[2021-08-30 09:22:53,761] {processor.py:162} INFO - Started process (PID=6663) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:22:53,763] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:22:53,765] {logging_mixin.py:109} INFO - [2021-08-30 09:22:53,765] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:22:53,789] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:22:53,800] {logging_mixin.py:109} INFO - [2021-08-30 09:22:53,800] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:22:53,809] {logging_mixin.py:109} INFO - [2021-08-30 09:22:53,809] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:22:53,824] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.070 seconds
+[2021-08-30 09:23:23,918] {processor.py:162} INFO - Started process (PID=6678) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:23:23,923] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:23:23,926] {logging_mixin.py:109} INFO - [2021-08-30 09:23:23,925] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:23:23,967] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:23:23,985] {logging_mixin.py:109} INFO - [2021-08-30 09:23:23,985] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:23:23,996] {logging_mixin.py:109} INFO - [2021-08-30 09:23:23,996] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:23:24,015] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.108 seconds
+[2021-08-30 09:23:54,991] {processor.py:162} INFO - Started process (PID=6695) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:23:54,993] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:23:54,993] {logging_mixin.py:109} INFO - [2021-08-30 09:23:54,993] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:23:55,006] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:23:55,017] {logging_mixin.py:109} INFO - [2021-08-30 09:23:55,017] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:23:55,026] {logging_mixin.py:109} INFO - [2021-08-30 09:23:55,026] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:23:55,043] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.054 seconds
+[2021-08-30 09:24:25,139] {processor.py:162} INFO - Started process (PID=6720) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:24:25,140] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:24:25,141] {logging_mixin.py:109} INFO - [2021-08-30 09:24:25,141] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:24:25,155] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:24:25,168] {logging_mixin.py:109} INFO - [2021-08-30 09:24:25,168] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:24:25,178] {logging_mixin.py:109} INFO - [2021-08-30 09:24:25,178] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:24:25,194] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.058 seconds
+[2021-08-30 09:24:56,107] {processor.py:162} INFO - Started process (PID=6737) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:24:56,108] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:24:56,109] {logging_mixin.py:109} INFO - [2021-08-30 09:24:56,109] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:24:56,123] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:24:56,135] {logging_mixin.py:109} INFO - [2021-08-30 09:24:56,135] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:24:56,144] {logging_mixin.py:109} INFO - [2021-08-30 09:24:56,144] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:24:56,160] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.056 seconds
+[2021-08-30 09:25:26,519] {processor.py:162} INFO - Started process (PID=6804) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:25:26,520] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:25:26,522] {logging_mixin.py:109} INFO - [2021-08-30 09:25:26,521] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:25:26,547] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:25:26,570] {logging_mixin.py:109} INFO - [2021-08-30 09:25:26,570] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:25:26,587] {logging_mixin.py:109} INFO - [2021-08-30 09:25:26,587] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:25:26,619] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.105 seconds
+[2021-08-30 09:25:57,436] {processor.py:162} INFO - Started process (PID=6856) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:25:57,438] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:25:57,438] {logging_mixin.py:109} INFO - [2021-08-30 09:25:57,438] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:25:57,454] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:25:57,467] {logging_mixin.py:109} INFO - [2021-08-30 09:25:57,467] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:25:57,477] {logging_mixin.py:109} INFO - [2021-08-30 09:25:57,477] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:25:57,494] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.060 seconds
+[2021-08-30 09:26:27,864] {processor.py:162} INFO - Started process (PID=6913) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:26:27,867] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:26:27,870] {logging_mixin.py:109} INFO - [2021-08-30 09:26:27,869] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:26:27,908] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:26:27,943] {logging_mixin.py:109} INFO - [2021-08-30 09:26:27,943] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:26:27,969] {logging_mixin.py:109} INFO - [2021-08-30 09:26:27,969] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:26:28,011] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.158 seconds
+[2021-08-30 09:26:58,068] {processor.py:162} INFO - Started process (PID=6935) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:26:58,071] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:26:58,073] {logging_mixin.py:109} INFO - [2021-08-30 09:26:58,072] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:26:58,099] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:26:58,130] {logging_mixin.py:109} INFO - [2021-08-30 09:26:58,130] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:26:58,154] {logging_mixin.py:109} INFO - [2021-08-30 09:26:58,154] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:26:58,180] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.116 seconds
+[2021-08-30 09:27:28,551] {processor.py:162} INFO - Started process (PID=6953) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:27:28,554] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:27:28,556] {logging_mixin.py:109} INFO - [2021-08-30 09:27:28,556] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:27:28,597] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:27:28,616] {logging_mixin.py:109} INFO - [2021-08-30 09:27:28,615] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:27:28,626] {logging_mixin.py:109} INFO - [2021-08-30 09:27:28,626] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:27:28,642] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.097 seconds
+[2021-08-30 09:27:59,223] {processor.py:162} INFO - Started process (PID=6965) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:27:59,231] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:27:59,233] {logging_mixin.py:109} INFO - [2021-08-30 09:27:59,232] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:27:59,278] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:27:59,297] {logging_mixin.py:109} INFO - [2021-08-30 09:27:59,297] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:27:59,312] {logging_mixin.py:109} INFO - [2021-08-30 09:27:59,312] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:27:59,328] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.114 seconds
+[2021-08-30 09:28:29,798] {processor.py:162} INFO - Started process (PID=6979) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:28:29,801] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:28:29,805] {logging_mixin.py:109} INFO - [2021-08-30 09:28:29,803] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:28:29,849] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:28:29,865] {logging_mixin.py:109} INFO - [2021-08-30 09:28:29,865] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:28:29,876] {logging_mixin.py:109} INFO - [2021-08-30 09:28:29,876] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:28:29,895] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.109 seconds
+[2021-08-30 09:29:00,299] {processor.py:162} INFO - Started process (PID=6998) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:29:00,300] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:29:00,300] {logging_mixin.py:109} INFO - [2021-08-30 09:29:00,300] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:29:00,323] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:29:00,340] {logging_mixin.py:109} INFO - [2021-08-30 09:29:00,340] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:29:00,353] {logging_mixin.py:109} INFO - [2021-08-30 09:29:00,352] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:29:00,389] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.096 seconds
+[2021-08-30 09:29:30,960] {processor.py:162} INFO - Started process (PID=7023) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:29:30,962] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:29:30,965] {logging_mixin.py:109} INFO - [2021-08-30 09:29:30,965] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:29:30,998] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:29:31,019] {logging_mixin.py:109} INFO - [2021-08-30 09:29:31,019] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:29:31,035] {logging_mixin.py:109} INFO - [2021-08-30 09:29:31,035] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:29:31,057] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.103 seconds
+[2021-08-30 09:30:01,647] {processor.py:162} INFO - Started process (PID=7046) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:30:01,652] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:30:01,654] {logging_mixin.py:109} INFO - [2021-08-30 09:30:01,654] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:30:01,683] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:30:01,698] {logging_mixin.py:109} INFO - [2021-08-30 09:30:01,698] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:30:01,710] {logging_mixin.py:109} INFO - [2021-08-30 09:30:01,709] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:30:01,727] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.089 seconds
+[2021-08-30 09:30:32,181] {processor.py:162} INFO - Started process (PID=7068) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:30:32,185] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:30:32,188] {logging_mixin.py:109} INFO - [2021-08-30 09:30:32,188] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:30:32,225] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:30:32,240] {logging_mixin.py:109} INFO - [2021-08-30 09:30:32,240] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:30:32,251] {logging_mixin.py:109} INFO - [2021-08-30 09:30:32,251] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:30:32,274] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.104 seconds
+[2021-08-30 09:31:02,749] {processor.py:162} INFO - Started process (PID=7082) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:31:02,752] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:31:02,753] {logging_mixin.py:109} INFO - [2021-08-30 09:31:02,753] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:31:02,792] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:31:02,832] {logging_mixin.py:109} INFO - [2021-08-30 09:31:02,831] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:31:02,862] {logging_mixin.py:109} INFO - [2021-08-30 09:31:02,862] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:31:02,898] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.158 seconds
+[2021-08-30 09:31:33,475] {processor.py:162} INFO - Started process (PID=7118) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:31:33,478] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:31:33,479] {logging_mixin.py:109} INFO - [2021-08-30 09:31:33,479] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:31:33,501] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:31:33,519] {logging_mixin.py:109} INFO - [2021-08-30 09:31:33,519] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:31:33,530] {logging_mixin.py:109} INFO - [2021-08-30 09:31:33,530] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:31:33,547] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.079 seconds
+[2021-08-30 09:32:04,147] {processor.py:162} INFO - Started process (PID=7190) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:32:04,156] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:32:04,157] {logging_mixin.py:109} INFO - [2021-08-30 09:32:04,157] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:32:04,198] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:32:04,252] {logging_mixin.py:109} INFO - [2021-08-30 09:32:04,251] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:32:04,269] {logging_mixin.py:109} INFO - [2021-08-30 09:32:04,268] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:32:04,311] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.167 seconds
+[2021-08-30 09:32:34,972] {processor.py:162} INFO - Started process (PID=7210) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:32:34,973] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:32:34,975] {logging_mixin.py:109} INFO - [2021-08-30 09:32:34,974] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:32:34,996] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:32:35,019] {logging_mixin.py:109} INFO - [2021-08-30 09:32:35,019] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:32:35,043] {logging_mixin.py:109} INFO - [2021-08-30 09:32:35,042] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:32:35,062] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.095 seconds
+[2021-08-30 09:33:05,505] {processor.py:162} INFO - Started process (PID=7218) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:33:05,506] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:33:05,507] {logging_mixin.py:109} INFO - [2021-08-30 09:33:05,507] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:33:05,532] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:33:05,553] {logging_mixin.py:109} INFO - [2021-08-30 09:33:05,553] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:33:05,567] {logging_mixin.py:109} INFO - [2021-08-30 09:33:05,567] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:33:05,585] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.084 seconds
+[2021-08-30 09:33:36,193] {processor.py:162} INFO - Started process (PID=7230) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:33:36,198] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:33:36,199] {logging_mixin.py:109} INFO - [2021-08-30 09:33:36,199] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:33:36,223] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:33:36,239] {logging_mixin.py:109} INFO - [2021-08-30 09:33:36,239] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:33:36,256] {logging_mixin.py:109} INFO - [2021-08-30 09:33:36,256] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:33:36,289] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.101 seconds
+[2021-08-30 09:34:06,803] {processor.py:162} INFO - Started process (PID=7241) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:34:06,809] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:34:06,812] {logging_mixin.py:109} INFO - [2021-08-30 09:34:06,811] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:34:06,843] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:34:06,871] {logging_mixin.py:109} INFO - [2021-08-30 09:34:06,870] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:34:06,889] {logging_mixin.py:109} INFO - [2021-08-30 09:34:06,889] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:34:06,915] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.126 seconds
+[2021-08-30 09:34:37,374] {processor.py:162} INFO - Started process (PID=7261) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:34:37,376] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:34:37,377] {logging_mixin.py:109} INFO - [2021-08-30 09:34:37,377] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:34:37,408] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:34:37,445] {logging_mixin.py:109} INFO - [2021-08-30 09:34:37,444] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:34:37,464] {logging_mixin.py:109} INFO - [2021-08-30 09:34:37,464] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:34:37,492] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.124 seconds
+[2021-08-30 09:35:08,022] {processor.py:162} INFO - Started process (PID=7295) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:35:08,023] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:35:08,024] {logging_mixin.py:109} INFO - [2021-08-30 09:35:08,024] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:35:08,044] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:35:08,083] {logging_mixin.py:109} INFO - [2021-08-30 09:35:08,083] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:35:08,102] {logging_mixin.py:109} INFO - [2021-08-30 09:35:08,102] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:35:08,148] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.131 seconds
+[2021-08-30 09:35:38,547] {processor.py:162} INFO - Started process (PID=7310) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:35:38,548] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:35:38,550] {logging_mixin.py:109} INFO - [2021-08-30 09:35:38,549] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:35:38,578] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:35:38,605] {logging_mixin.py:109} INFO - [2021-08-30 09:35:38,604] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:35:38,629] {logging_mixin.py:109} INFO - [2021-08-30 09:35:38,629] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:35:38,667] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.127 seconds
+[2021-08-30 09:36:09,084] {processor.py:162} INFO - Started process (PID=7321) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:36:09,085] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:36:09,086] {logging_mixin.py:109} INFO - [2021-08-30 09:36:09,086] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:36:09,114] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:36:09,145] {logging_mixin.py:109} INFO - [2021-08-30 09:36:09,145] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:36:09,163] {logging_mixin.py:109} INFO - [2021-08-30 09:36:09,163] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:36:09,198] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.117 seconds
+[2021-08-30 09:36:39,773] {processor.py:162} INFO - Started process (PID=7359) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:36:39,777] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:36:39,779] {logging_mixin.py:109} INFO - [2021-08-30 09:36:39,779] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:36:39,823] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:36:39,855] {logging_mixin.py:109} INFO - [2021-08-30 09:36:39,855] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:36:39,871] {logging_mixin.py:109} INFO - [2021-08-30 09:36:39,871] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:36:39,899] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.133 seconds
+[2021-08-30 09:37:10,460] {processor.py:162} INFO - Started process (PID=7369) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:37:10,462] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:37:10,464] {logging_mixin.py:109} INFO - [2021-08-30 09:37:10,464] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:37:10,489] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:37:10,517] {logging_mixin.py:109} INFO - [2021-08-30 09:37:10,517] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:37:10,533] {logging_mixin.py:109} INFO - [2021-08-30 09:37:10,533] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:37:10,553] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.096 seconds
+[2021-08-30 09:37:40,949] {processor.py:162} INFO - Started process (PID=7382) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:37:40,951] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:37:40,955] {logging_mixin.py:109} INFO - [2021-08-30 09:37:40,954] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:37:40,976] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:37:41,007] {logging_mixin.py:109} INFO - [2021-08-30 09:37:41,007] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:37:41,025] {logging_mixin.py:109} INFO - [2021-08-30 09:37:41,024] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:37:41,043] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.102 seconds
+[2021-08-30 09:38:11,492] {processor.py:162} INFO - Started process (PID=7394) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:38:11,493] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:38:11,494] {logging_mixin.py:109} INFO - [2021-08-30 09:38:11,494] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:38:11,510] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:38:11,528] {logging_mixin.py:109} INFO - [2021-08-30 09:38:11,528] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:38:11,556] {logging_mixin.py:109} INFO - [2021-08-30 09:38:11,556] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:38:11,574] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.085 seconds
+[2021-08-30 09:38:42,037] {processor.py:162} INFO - Started process (PID=7407) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:38:42,039] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:38:42,040] {logging_mixin.py:109} INFO - [2021-08-30 09:38:42,040] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:38:42,069] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:38:42,100] {logging_mixin.py:109} INFO - [2021-08-30 09:38:42,100] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:38:42,117] {logging_mixin.py:109} INFO - [2021-08-30 09:38:42,117] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:38:42,129] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.098 seconds
+[2021-08-30 09:39:12,672] {processor.py:162} INFO - Started process (PID=7418) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:39:12,675] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:39:12,676] {logging_mixin.py:109} INFO - [2021-08-30 09:39:12,676] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:39:12,696] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:39:12,715] {logging_mixin.py:109} INFO - [2021-08-30 09:39:12,714] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:39:12,731] {logging_mixin.py:109} INFO - [2021-08-30 09:39:12,731] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:39:12,756] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.090 seconds
+[2021-08-30 09:39:42,920] {processor.py:162} INFO - Started process (PID=7441) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:39:42,922] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:39:42,924] {logging_mixin.py:109} INFO - [2021-08-30 09:39:42,923] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:39:42,953] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:39:42,991] {logging_mixin.py:109} INFO - [2021-08-30 09:39:42,991] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:39:43,011] {logging_mixin.py:109} INFO - [2021-08-30 09:39:43,011] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:39:43,032] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.120 seconds
+[2021-08-30 09:40:13,219] {processor.py:162} INFO - Started process (PID=7454) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:40:13,220] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:40:13,221] {logging_mixin.py:109} INFO - [2021-08-30 09:40:13,221] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:40:13,243] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:40:13,270] {logging_mixin.py:109} INFO - [2021-08-30 09:40:13,270] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:40:13,284] {logging_mixin.py:109} INFO - [2021-08-30 09:40:13,284] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:40:13,312] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.096 seconds
+[2021-08-30 09:40:43,419] {processor.py:162} INFO - Started process (PID=7472) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:40:43,420] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:40:43,421] {logging_mixin.py:109} INFO - [2021-08-30 09:40:43,421] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:40:43,442] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:40:43,463] {logging_mixin.py:109} INFO - [2021-08-30 09:40:43,463] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:40:43,478] {logging_mixin.py:109} INFO - [2021-08-30 09:40:43,478] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:40:43,490] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.075 seconds
+[2021-08-30 09:41:13,692] {processor.py:162} INFO - Started process (PID=7490) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:41:13,695] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:41:13,696] {logging_mixin.py:109} INFO - [2021-08-30 09:41:13,696] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:41:13,747] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:41:13,768] {logging_mixin.py:109} INFO - [2021-08-30 09:41:13,768] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:41:13,792] {logging_mixin.py:109} INFO - [2021-08-30 09:41:13,791] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:41:13,817] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.141 seconds
+[2021-08-30 09:41:44,033] {processor.py:162} INFO - Started process (PID=7545) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:41:44,034] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:41:44,035] {logging_mixin.py:109} INFO - [2021-08-30 09:41:44,035] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:41:44,058] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:41:44,085] {logging_mixin.py:109} INFO - [2021-08-30 09:41:44,085] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:41:44,103] {logging_mixin.py:109} INFO - [2021-08-30 09:41:44,103] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:41:44,131] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.101 seconds
+[2021-08-30 09:42:14,390] {processor.py:162} INFO - Started process (PID=7560) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:42:14,392] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:42:14,393] {logging_mixin.py:109} INFO - [2021-08-30 09:42:14,393] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:42:14,415] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:42:14,455] {logging_mixin.py:109} INFO - [2021-08-30 09:42:14,455] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:42:14,468] {logging_mixin.py:109} INFO - [2021-08-30 09:42:14,468] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:42:14,480] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.096 seconds
+[2021-08-30 09:42:44,801] {processor.py:162} INFO - Started process (PID=7574) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:42:44,806] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:42:44,808] {logging_mixin.py:109} INFO - [2021-08-30 09:42:44,808] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:42:44,870] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:42:44,895] {logging_mixin.py:109} INFO - [2021-08-30 09:42:44,894] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:42:44,916] {logging_mixin.py:109} INFO - [2021-08-30 09:42:44,916] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:42:44,935] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.146 seconds
+[2021-08-30 09:43:15,049] {processor.py:162} INFO - Started process (PID=7588) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:43:15,059] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:43:15,062] {logging_mixin.py:109} INFO - [2021-08-30 09:43:15,062] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:43:15,107] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:43:15,127] {logging_mixin.py:109} INFO - [2021-08-30 09:43:15,127] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:43:15,137] {logging_mixin.py:109} INFO - [2021-08-30 09:43:15,137] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:43:15,148] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.112 seconds
+[2021-08-30 09:43:45,476] {processor.py:162} INFO - Started process (PID=7603) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:43:45,478] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:43:45,479] {logging_mixin.py:109} INFO - [2021-08-30 09:43:45,479] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:43:45,536] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:43:45,562] {logging_mixin.py:109} INFO - [2021-08-30 09:43:45,562] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:43:45,598] {logging_mixin.py:109} INFO - [2021-08-30 09:43:45,598] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:43:45,613] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.147 seconds
+[2021-08-30 09:44:15,759] {processor.py:162} INFO - Started process (PID=7644) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:44:15,761] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:44:15,763] {logging_mixin.py:109} INFO - [2021-08-30 09:44:15,763] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:44:15,791] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:44:15,821] {logging_mixin.py:109} INFO - [2021-08-30 09:44:15,821] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:44:15,836] {logging_mixin.py:109} INFO - [2021-08-30 09:44:15,836] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:44:15,852] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.095 seconds
+[2021-08-30 09:44:46,069] {processor.py:162} INFO - Started process (PID=7673) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:44:46,070] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:44:46,078] {logging_mixin.py:109} INFO - [2021-08-30 09:44:46,078] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:44:46,098] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:44:46,127] {logging_mixin.py:109} INFO - [2021-08-30 09:44:46,127] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:44:46,144] {logging_mixin.py:109} INFO - [2021-08-30 09:44:46,144] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:44:46,167] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.101 seconds
+[2021-08-30 09:45:16,359] {processor.py:162} INFO - Started process (PID=7702) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:45:16,360] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:45:16,361] {logging_mixin.py:109} INFO - [2021-08-30 09:45:16,361] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:45:16,388] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:45:16,418] {logging_mixin.py:109} INFO - [2021-08-30 09:45:16,417] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:45:16,430] {logging_mixin.py:109} INFO - [2021-08-30 09:45:16,430] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:45:16,460] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.104 seconds
+[2021-08-30 09:45:46,721] {processor.py:162} INFO - Started process (PID=7717) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:45:46,722] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:45:46,724] {logging_mixin.py:109} INFO - [2021-08-30 09:45:46,723] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:45:46,759] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:45:46,797] {logging_mixin.py:109} INFO - [2021-08-30 09:45:46,797] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:45:46,812] {logging_mixin.py:109} INFO - [2021-08-30 09:45:46,812] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:45:46,825] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.110 seconds
+[2021-08-30 09:46:17,084] {processor.py:162} INFO - Started process (PID=7731) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:46:17,087] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:46:17,092] {logging_mixin.py:109} INFO - [2021-08-30 09:46:17,092] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:46:17,129] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:46:17,161] {logging_mixin.py:109} INFO - [2021-08-30 09:46:17,161] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:46:17,190] {logging_mixin.py:109} INFO - [2021-08-30 09:46:17,190] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:46:17,222] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.143 seconds
+[2021-08-30 09:46:47,444] {processor.py:162} INFO - Started process (PID=7765) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:46:47,445] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:46:47,446] {logging_mixin.py:109} INFO - [2021-08-30 09:46:47,446] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:46:47,487] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:46:47,515] {logging_mixin.py:109} INFO - [2021-08-30 09:46:47,515] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:46:47,560] {logging_mixin.py:109} INFO - [2021-08-30 09:46:47,560] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:46:47,598] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.161 seconds
+[2021-08-30 09:47:17,804] {processor.py:162} INFO - Started process (PID=7780) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:47:17,805] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:47:17,806] {logging_mixin.py:109} INFO - [2021-08-30 09:47:17,806] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:47:17,846] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:47:17,878] {logging_mixin.py:109} INFO - [2021-08-30 09:47:17,877] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:47:17,901] {logging_mixin.py:109} INFO - [2021-08-30 09:47:17,901] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:47:17,947] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.151 seconds
+[2021-08-30 09:47:48,250] {processor.py:162} INFO - Started process (PID=7793) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:47:48,254] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:47:48,257] {logging_mixin.py:109} INFO - [2021-08-30 09:47:48,256] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:47:48,287] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:47:48,303] {logging_mixin.py:109} INFO - [2021-08-30 09:47:48,303] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:47:48,327] {logging_mixin.py:109} INFO - [2021-08-30 09:47:48,327] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:47:48,339] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.104 seconds
+[2021-08-30 09:48:18,499] {processor.py:162} INFO - Started process (PID=7809) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:48:18,501] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:48:18,502] {logging_mixin.py:109} INFO - [2021-08-30 09:48:18,501] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:48:18,529] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:48:18,562] {logging_mixin.py:109} INFO - [2021-08-30 09:48:18,562] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:48:18,583] {logging_mixin.py:109} INFO - [2021-08-30 09:48:18,582] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:48:18,607] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.111 seconds
+[2021-08-30 09:48:48,825] {processor.py:162} INFO - Started process (PID=7817) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:48:48,827] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:48:48,829] {logging_mixin.py:109} INFO - [2021-08-30 09:48:48,828] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:48:48,855] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:48:48,890] {logging_mixin.py:109} INFO - [2021-08-30 09:48:48,890] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:48:48,907] {logging_mixin.py:109} INFO - [2021-08-30 09:48:48,906] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:48:48,933] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.113 seconds
+[2021-08-30 09:49:19,194] {processor.py:162} INFO - Started process (PID=7843) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:49:19,201] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:49:19,203] {logging_mixin.py:109} INFO - [2021-08-30 09:49:19,203] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:49:19,253] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:49:19,283] {logging_mixin.py:109} INFO - [2021-08-30 09:49:19,283] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:49:19,300] {logging_mixin.py:109} INFO - [2021-08-30 09:49:19,299] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:49:19,323] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.132 seconds
+[2021-08-30 09:49:49,541] {processor.py:162} INFO - Started process (PID=7860) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:49:49,547] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:49:49,550] {logging_mixin.py:109} INFO - [2021-08-30 09:49:49,549] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:49:49,597] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:49:49,617] {logging_mixin.py:109} INFO - [2021-08-30 09:49:49,617] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:49:49,651] {logging_mixin.py:109} INFO - [2021-08-30 09:49:49,651] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:49:49,677] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.148 seconds
+[2021-08-30 09:50:19,862] {processor.py:162} INFO - Started process (PID=7874) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:50:19,864] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:50:19,865] {logging_mixin.py:109} INFO - [2021-08-30 09:50:19,865] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:50:19,935] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:50:19,972] {logging_mixin.py:109} INFO - [2021-08-30 09:50:19,972] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:50:20,006] {logging_mixin.py:109} INFO - [2021-08-30 09:50:20,006] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:50:20,032] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.182 seconds
+[2021-08-30 09:50:50,062] {processor.py:162} INFO - Started process (PID=7886) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:50:50,067] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:50:50,068] {logging_mixin.py:109} INFO - [2021-08-30 09:50:50,068] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:50:50,092] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:50:50,127] {logging_mixin.py:109} INFO - [2021-08-30 09:50:50,126] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:50:50,143] {logging_mixin.py:109} INFO - [2021-08-30 09:50:50,143] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:50:50,156] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.099 seconds
+[2021-08-30 09:51:20,438] {processor.py:162} INFO - Started process (PID=7897) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:51:20,440] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:51:20,442] {logging_mixin.py:109} INFO - [2021-08-30 09:51:20,442] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:51:20,474] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:51:20,510] {logging_mixin.py:109} INFO - [2021-08-30 09:51:20,510] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:51:20,525] {logging_mixin.py:109} INFO - [2021-08-30 09:51:20,525] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:51:20,552] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.120 seconds
+[2021-08-30 09:51:50,764] {processor.py:162} INFO - Started process (PID=7943) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:51:50,768] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:51:50,770] {logging_mixin.py:109} INFO - [2021-08-30 09:51:50,770] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:51:50,804] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:51:50,827] {logging_mixin.py:109} INFO - [2021-08-30 09:51:50,827] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:51:50,840] {logging_mixin.py:109} INFO - [2021-08-30 09:51:50,840] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:51:50,861] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.106 seconds
+[2021-08-30 09:52:21,087] {processor.py:162} INFO - Started process (PID=7960) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:52:21,089] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:52:21,091] {logging_mixin.py:109} INFO - [2021-08-30 09:52:21,091] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:52:21,134] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:52:21,175] {logging_mixin.py:109} INFO - [2021-08-30 09:52:21,174] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:52:21,194] {logging_mixin.py:109} INFO - [2021-08-30 09:52:21,194] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:52:21,210] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.132 seconds
+[2021-08-30 09:52:51,395] {processor.py:162} INFO - Started process (PID=7971) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:52:51,396] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:52:51,397] {logging_mixin.py:109} INFO - [2021-08-30 09:52:51,397] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:52:51,413] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:52:51,426] {logging_mixin.py:109} INFO - [2021-08-30 09:52:51,426] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:52:51,436] {logging_mixin.py:109} INFO - [2021-08-30 09:52:51,436] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:52:51,456] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.064 seconds
+[2021-08-30 09:53:21,622] {processor.py:162} INFO - Started process (PID=7996) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:53:21,627] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:53:21,631] {logging_mixin.py:109} INFO - [2021-08-30 09:53:21,631] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:53:21,687] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:53:21,707] {logging_mixin.py:109} INFO - [2021-08-30 09:53:21,707] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:53:21,724] {logging_mixin.py:109} INFO - [2021-08-30 09:53:21,724] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:53:21,741] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.129 seconds
+[2021-08-30 09:53:51,962] {processor.py:162} INFO - Started process (PID=8005) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:53:51,963] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:53:51,964] {logging_mixin.py:109} INFO - [2021-08-30 09:53:51,964] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:53:51,993] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:53:52,017] {logging_mixin.py:109} INFO - [2021-08-30 09:53:52,016] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:53:52,040] {logging_mixin.py:109} INFO - [2021-08-30 09:53:52,039] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:53:52,062] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.104 seconds
+[2021-08-30 09:54:22,276] {processor.py:162} INFO - Started process (PID=8020) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:54:22,277] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:54:22,278] {logging_mixin.py:109} INFO - [2021-08-30 09:54:22,278] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:54:22,295] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:54:22,312] {logging_mixin.py:109} INFO - [2021-08-30 09:54:22,312] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:54:22,332] {logging_mixin.py:109} INFO - [2021-08-30 09:54:22,332] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:54:22,358] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.085 seconds
+[2021-08-30 09:54:52,513] {processor.py:162} INFO - Started process (PID=8048) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:54:52,520] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:54:52,526] {logging_mixin.py:109} INFO - [2021-08-30 09:54:52,526] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:54:52,597] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:54:52,677] {logging_mixin.py:109} INFO - [2021-08-30 09:54:52,677] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:54:52,749] {logging_mixin.py:109} INFO - [2021-08-30 09:54:52,748] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:54:52,815] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.307 seconds
+[2021-08-30 09:55:23,096] {processor.py:162} INFO - Started process (PID=8073) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:55:23,098] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:55:23,100] {logging_mixin.py:109} INFO - [2021-08-30 09:55:23,099] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:55:23,144] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:55:23,181] {logging_mixin.py:109} INFO - [2021-08-30 09:55:23,181] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:55:23,204] {logging_mixin.py:109} INFO - [2021-08-30 09:55:23,204] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:55:23,232] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.147 seconds
+[2021-08-30 09:55:53,436] {processor.py:162} INFO - Started process (PID=8088) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:55:53,439] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:55:53,440] {logging_mixin.py:109} INFO - [2021-08-30 09:55:53,440] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:55:53,473] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:55:53,498] {logging_mixin.py:109} INFO - [2021-08-30 09:55:53,498] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:55:53,516] {logging_mixin.py:109} INFO - [2021-08-30 09:55:53,516] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:55:53,535] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.104 seconds
+[2021-08-30 09:56:23,870] {processor.py:162} INFO - Started process (PID=8100) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:56:23,873] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:56:23,874] {logging_mixin.py:109} INFO - [2021-08-30 09:56:23,874] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:56:23,892] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:56:23,911] {logging_mixin.py:109} INFO - [2021-08-30 09:56:23,910] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:56:23,931] {logging_mixin.py:109} INFO - [2021-08-30 09:56:23,931] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:56:23,952] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.088 seconds
+[2021-08-30 09:56:54,131] {processor.py:162} INFO - Started process (PID=8142) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:56:54,136] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:56:54,137] {logging_mixin.py:109} INFO - [2021-08-30 09:56:54,137] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:56:54,165] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:56:54,183] {logging_mixin.py:109} INFO - [2021-08-30 09:56:54,183] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:56:54,201] {logging_mixin.py:109} INFO - [2021-08-30 09:56:54,200] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:56:54,219] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.096 seconds
+[2021-08-30 09:57:24,477] {processor.py:162} INFO - Started process (PID=8155) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:57:24,479] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:57:24,480] {logging_mixin.py:109} INFO - [2021-08-30 09:57:24,480] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:57:24,504] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:57:24,526] {logging_mixin.py:109} INFO - [2021-08-30 09:57:24,526] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:57:24,545] {logging_mixin.py:109} INFO - [2021-08-30 09:57:24,544] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:57:24,570] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.101 seconds
+[2021-08-30 09:57:54,824] {processor.py:162} INFO - Started process (PID=8164) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:57:54,827] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:57:54,829] {logging_mixin.py:109} INFO - [2021-08-30 09:57:54,828] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:57:54,858] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:57:54,877] {logging_mixin.py:109} INFO - [2021-08-30 09:57:54,877] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:57:54,893] {logging_mixin.py:109} INFO - [2021-08-30 09:57:54,893] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:57:54,925] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.110 seconds
+[2021-08-30 09:58:25,211] {processor.py:162} INFO - Started process (PID=8181) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:58:25,212] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:58:25,213] {logging_mixin.py:109} INFO - [2021-08-30 09:58:25,213] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:58:25,239] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:58:25,258] {logging_mixin.py:109} INFO - [2021-08-30 09:58:25,258] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:58:25,271] {logging_mixin.py:109} INFO - [2021-08-30 09:58:25,270] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:58:25,292] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.089 seconds
+[2021-08-30 09:58:55,563] {processor.py:162} INFO - Started process (PID=8189) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:58:55,564] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:58:55,566] {logging_mixin.py:109} INFO - [2021-08-30 09:58:55,566] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:58:55,597] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:58:55,615] {logging_mixin.py:109} INFO - [2021-08-30 09:58:55,615] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:58:55,628] {logging_mixin.py:109} INFO - [2021-08-30 09:58:55,628] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:58:55,653] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.098 seconds
+[2021-08-30 09:59:25,966] {processor.py:162} INFO - Started process (PID=8212) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:59:25,968] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:59:25,969] {logging_mixin.py:109} INFO - [2021-08-30 09:59:25,969] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:59:25,989] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:59:26,007] {logging_mixin.py:109} INFO - [2021-08-30 09:59:26,007] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:59:26,022] {logging_mixin.py:109} INFO - [2021-08-30 09:59:26,022] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:59:26,040] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.082 seconds
+[2021-08-30 09:59:56,247] {processor.py:162} INFO - Started process (PID=8226) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:59:56,252] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 09:59:56,255] {logging_mixin.py:109} INFO - [2021-08-30 09:59:56,254] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:59:56,299] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 09:59:56,320] {logging_mixin.py:109} INFO - [2021-08-30 09:59:56,319] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 09:59:56,334] {logging_mixin.py:109} INFO - [2021-08-30 09:59:56,334] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 09:59:56,350] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.113 seconds
+[2021-08-30 10:00:26,594] {processor.py:162} INFO - Started process (PID=8256) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:00:26,596] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:00:26,597] {logging_mixin.py:109} INFO - [2021-08-30 10:00:26,597] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:00:26,623] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:00:26,646] {logging_mixin.py:109} INFO - [2021-08-30 10:00:26,646] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:00:26,659] {logging_mixin.py:109} INFO - [2021-08-30 10:00:26,658] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:00:26,683] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.092 seconds
+[2021-08-30 10:00:56,887] {processor.py:162} INFO - Started process (PID=8302) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:00:56,891] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:00:56,897] {logging_mixin.py:109} INFO - [2021-08-30 10:00:56,892] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:00:56,943] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:00:56,984] {logging_mixin.py:109} INFO - [2021-08-30 10:00:56,984] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:00:57,036] {logging_mixin.py:109} INFO - [2021-08-30 10:00:57,036] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:00:57,064] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.202 seconds
+[2021-08-30 10:01:27,432] {processor.py:162} INFO - Started process (PID=8341) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:01:27,442] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:01:27,445] {logging_mixin.py:109} INFO - [2021-08-30 10:01:27,444] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:01:27,566] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:01:27,614] {logging_mixin.py:109} INFO - [2021-08-30 10:01:27,614] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:01:27,648] {logging_mixin.py:109} INFO - [2021-08-30 10:01:27,648] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:01:27,718] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.292 seconds
+[2021-08-30 10:01:58,053] {processor.py:162} INFO - Started process (PID=8664) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:01:58,055] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:01:58,056] {logging_mixin.py:109} INFO - [2021-08-30 10:01:58,056] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:01:58,168] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:01:58,309] {logging_mixin.py:109} INFO - [2021-08-30 10:01:58,309] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:01:58,340] {logging_mixin.py:109} INFO - [2021-08-30 10:01:58,339] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:01:58,371] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.351 seconds
+[2021-08-30 10:02:28,695] {processor.py:162} INFO - Started process (PID=8680) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:02:28,696] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:02:28,697] {logging_mixin.py:109} INFO - [2021-08-30 10:02:28,697] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:02:28,728] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:02:28,770] {logging_mixin.py:109} INFO - [2021-08-30 10:02:28,769] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:02:28,798] {logging_mixin.py:109} INFO - [2021-08-30 10:02:28,798] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:02:28,835] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.143 seconds
+[2021-08-30 10:02:59,030] {processor.py:162} INFO - Started process (PID=8694) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:02:59,032] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:02:59,033] {logging_mixin.py:109} INFO - [2021-08-30 10:02:59,032] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:02:59,070] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:02:59,095] {logging_mixin.py:109} INFO - [2021-08-30 10:02:59,095] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:02:59,113] {logging_mixin.py:109} INFO - [2021-08-30 10:02:59,112] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:02:59,144] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.119 seconds
+[2021-08-30 10:03:29,365] {processor.py:162} INFO - Started process (PID=8706) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:03:29,368] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:03:29,370] {logging_mixin.py:109} INFO - [2021-08-30 10:03:29,370] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:03:29,398] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:03:29,423] {logging_mixin.py:109} INFO - [2021-08-30 10:03:29,423] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:03:29,443] {logging_mixin.py:109} INFO - [2021-08-30 10:03:29,443] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:03:29,481] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.126 seconds
+[2021-08-30 10:03:59,806] {processor.py:162} INFO - Started process (PID=8719) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:03:59,810] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:03:59,811] {logging_mixin.py:109} INFO - [2021-08-30 10:03:59,811] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:03:59,840] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:03:59,858] {logging_mixin.py:109} INFO - [2021-08-30 10:03:59,858] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:03:59,872] {logging_mixin.py:109} INFO - [2021-08-30 10:03:59,872] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:03:59,892] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.094 seconds
+[2021-08-30 10:04:30,018] {processor.py:162} INFO - Started process (PID=8747) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:04:30,027] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:04:30,029] {logging_mixin.py:109} INFO - [2021-08-30 10:04:30,029] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:04:30,067] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:04:30,107] {logging_mixin.py:109} INFO - [2021-08-30 10:04:30,107] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:04:30,132] {logging_mixin.py:109} INFO - [2021-08-30 10:04:30,132] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:04:30,158] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.148 seconds
+[2021-08-30 10:05:00,429] {processor.py:162} INFO - Started process (PID=8768) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:05:00,432] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:05:00,436] {logging_mixin.py:109} INFO - [2021-08-30 10:05:00,435] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:05:00,460] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:05:00,483] {logging_mixin.py:109} INFO - [2021-08-30 10:05:00,483] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:05:00,497] {logging_mixin.py:109} INFO - [2021-08-30 10:05:00,497] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:05:00,526] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.106 seconds
+[2021-08-30 10:05:30,638] {processor.py:162} INFO - Started process (PID=8786) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:05:30,640] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:05:30,643] {logging_mixin.py:109} INFO - [2021-08-30 10:05:30,643] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:05:30,690] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:05:30,718] {logging_mixin.py:109} INFO - [2021-08-30 10:05:30,718] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:05:30,734] {logging_mixin.py:109} INFO - [2021-08-30 10:05:30,734] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:05:30,754] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.127 seconds
+[2021-08-30 10:06:01,020] {processor.py:162} INFO - Started process (PID=8799) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:06:01,021] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:06:01,022] {logging_mixin.py:109} INFO - [2021-08-30 10:06:01,022] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:06:01,052] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:06:01,080] {logging_mixin.py:109} INFO - [2021-08-30 10:06:01,080] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:06:01,102] {logging_mixin.py:109} INFO - [2021-08-30 10:06:01,102] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:06:01,124] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.118 seconds
+[2021-08-30 10:06:31,295] {processor.py:162} INFO - Started process (PID=8841) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:06:31,296] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:06:31,297] {logging_mixin.py:109} INFO - [2021-08-30 10:06:31,297] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:06:31,326] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:06:31,347] {logging_mixin.py:109} INFO - [2021-08-30 10:06:31,346] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:06:31,369] {logging_mixin.py:109} INFO - [2021-08-30 10:06:31,369] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:06:31,391] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.099 seconds
+[2021-08-30 10:07:01,675] {processor.py:162} INFO - Started process (PID=8850) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:07:01,679] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:07:01,681] {logging_mixin.py:109} INFO - [2021-08-30 10:07:01,680] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:07:01,725] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:07:01,747] {logging_mixin.py:109} INFO - [2021-08-30 10:07:01,747] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:07:01,763] {logging_mixin.py:109} INFO - [2021-08-30 10:07:01,763] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:07:01,784] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.118 seconds
+[2021-08-30 10:07:31,980] {processor.py:162} INFO - Started process (PID=8932) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:07:31,981] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:07:31,982] {logging_mixin.py:109} INFO - [2021-08-30 10:07:31,982] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:07:32,009] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:07:32,028] {logging_mixin.py:109} INFO - [2021-08-30 10:07:32,028] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:07:32,046] {logging_mixin.py:109} INFO - [2021-08-30 10:07:32,046] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:07:32,066] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.089 seconds
+[2021-08-30 10:08:02,231] {processor.py:162} INFO - Started process (PID=8946) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:08:02,237] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:08:02,240] {logging_mixin.py:109} INFO - [2021-08-30 10:08:02,239] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:08:02,282] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:08:02,308] {logging_mixin.py:109} INFO - [2021-08-30 10:08:02,308] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:08:02,323] {logging_mixin.py:109} INFO - [2021-08-30 10:08:02,323] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:08:02,343] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.123 seconds
+[2021-08-30 10:08:32,451] {processor.py:162} INFO - Started process (PID=8972) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:08:32,457] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:08:32,460] {logging_mixin.py:109} INFO - [2021-08-30 10:08:32,459] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:08:32,509] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:08:32,531] {logging_mixin.py:109} INFO - [2021-08-30 10:08:32,531] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:08:32,552] {logging_mixin.py:109} INFO - [2021-08-30 10:08:32,551] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:08:32,572] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.134 seconds
+[2021-08-30 10:09:02,814] {processor.py:162} INFO - Started process (PID=8982) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:09:02,815] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:09:02,818] {logging_mixin.py:109} INFO - [2021-08-30 10:09:02,817] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:09:02,835] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:09:02,862] {logging_mixin.py:109} INFO - [2021-08-30 10:09:02,862] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:09:02,886] {logging_mixin.py:109} INFO - [2021-08-30 10:09:02,886] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:09:03,234] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.424 seconds
+[2021-08-30 10:09:33,437] {processor.py:162} INFO - Started process (PID=9008) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:09:33,441] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:09:33,444] {logging_mixin.py:109} INFO - [2021-08-30 10:09:33,443] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:09:33,481] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:09:33,506] {logging_mixin.py:109} INFO - [2021-08-30 10:09:33,506] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:09:33,584] {logging_mixin.py:109} INFO - [2021-08-30 10:09:33,583] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:09:33,607] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.179 seconds
+[2021-08-30 10:10:03,803] {processor.py:162} INFO - Started process (PID=9026) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:10:03,804] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:10:03,806] {logging_mixin.py:109} INFO - [2021-08-30 10:10:03,806] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:10:03,835] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:10:03,863] {logging_mixin.py:109} INFO - [2021-08-30 10:10:03,863] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:10:03,978] {logging_mixin.py:109} INFO - [2021-08-30 10:10:03,978] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:10:04,009] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.211 seconds
+[2021-08-30 10:10:34,226] {processor.py:162} INFO - Started process (PID=9038) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:10:34,228] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:10:34,229] {logging_mixin.py:109} INFO - [2021-08-30 10:10:34,229] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:10:34,265] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:10:34,299] {logging_mixin.py:109} INFO - [2021-08-30 10:10:34,299] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:10:34,404] {logging_mixin.py:109} INFO - [2021-08-30 10:10:34,403] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:10:34,437] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.215 seconds
+[2021-08-30 10:11:04,633] {processor.py:162} INFO - Started process (PID=9051) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:11:04,634] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:11:04,635] {logging_mixin.py:109} INFO - [2021-08-30 10:11:04,635] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:11:04,655] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:11:04,676] {logging_mixin.py:109} INFO - [2021-08-30 10:11:04,676] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:11:04,795] {logging_mixin.py:109} INFO - [2021-08-30 10:11:04,795] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:11:04,818] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.188 seconds
+[2021-08-30 10:11:34,965] {processor.py:162} INFO - Started process (PID=9083) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:11:34,969] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:11:34,972] {logging_mixin.py:109} INFO - [2021-08-30 10:11:34,971] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:11:35,011] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:11:35,039] {logging_mixin.py:109} INFO - [2021-08-30 10:11:35,039] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:11:35,142] {logging_mixin.py:109} INFO - [2021-08-30 10:11:35,142] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:11:35,164] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.205 seconds
+[2021-08-30 10:12:05,376] {processor.py:162} INFO - Started process (PID=9117) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:12:05,379] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:12:05,380] {logging_mixin.py:109} INFO - [2021-08-30 10:12:05,380] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:12:05,404] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:12:05,421] {logging_mixin.py:109} INFO - [2021-08-30 10:12:05,421] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:12:05,489] {logging_mixin.py:109} INFO - [2021-08-30 10:12:05,489] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:12:05,506] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.137 seconds
+[2021-08-30 10:12:35,663] {processor.py:162} INFO - Started process (PID=9130) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:12:35,665] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:12:35,665] {logging_mixin.py:109} INFO - [2021-08-30 10:12:35,665] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:12:35,681] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:12:35,745] {logging_mixin.py:109} INFO - [2021-08-30 10:12:35,744] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:12:35,759] {logging_mixin.py:109} INFO - [2021-08-30 10:12:35,759] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:12:35,776] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.116 seconds
+[2021-08-30 10:13:05,992] {processor.py:162} INFO - Started process (PID=9141) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:13:05,995] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:13:05,997] {logging_mixin.py:109} INFO - [2021-08-30 10:13:05,997] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:13:06,017] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:13:06,075] {logging_mixin.py:109} INFO - [2021-08-30 10:13:06,075] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:13:06,084] {logging_mixin.py:109} INFO - [2021-08-30 10:13:06,084] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:13:06,100] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.114 seconds
+[2021-08-30 10:13:36,316] {processor.py:162} INFO - Started process (PID=9183) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:13:36,317] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:13:36,318] {logging_mixin.py:109} INFO - [2021-08-30 10:13:36,318] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:13:36,334] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:13:36,414] {logging_mixin.py:109} INFO - [2021-08-30 10:13:36,414] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:13:36,424] {logging_mixin.py:109} INFO - [2021-08-30 10:13:36,424] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:13:36,439] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.127 seconds
+[2021-08-30 10:14:06,692] {processor.py:162} INFO - Started process (PID=9227) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:14:06,698] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:14:06,702] {logging_mixin.py:109} INFO - [2021-08-30 10:14:06,701] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:14:06,733] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:14:06,799] {logging_mixin.py:109} INFO - [2021-08-30 10:14:06,799] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:14:06,810] {logging_mixin.py:109} INFO - [2021-08-30 10:14:06,810] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:14:06,826] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.150 seconds
+[2021-08-30 10:14:37,007] {processor.py:162} INFO - Started process (PID=9257) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:14:37,011] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:14:37,013] {logging_mixin.py:109} INFO - [2021-08-30 10:14:37,012] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:14:37,042] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:14:37,104] {logging_mixin.py:109} INFO - [2021-08-30 10:14:37,103] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:14:37,113] {logging_mixin.py:109} INFO - [2021-08-30 10:14:37,112] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:14:37,133] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.135 seconds
+[2021-08-30 10:15:07,337] {processor.py:162} INFO - Started process (PID=9282) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:15:07,340] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:15:07,342] {logging_mixin.py:109} INFO - [2021-08-30 10:15:07,341] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:15:07,424] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:15:07,436] {logging_mixin.py:109} INFO - [2021-08-30 10:15:07,436] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:15:07,445] {logging_mixin.py:109} INFO - [2021-08-30 10:15:07,445] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:15:07,458] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.126 seconds
+[2021-08-30 10:15:37,724] {processor.py:162} INFO - Started process (PID=9326) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:15:37,727] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:15:37,730] {logging_mixin.py:109} INFO - [2021-08-30 10:15:37,729] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:15:37,920] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:15:37,956] {logging_mixin.py:109} INFO - [2021-08-30 10:15:37,956] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:15:37,986] {logging_mixin.py:109} INFO - [2021-08-30 10:15:37,985] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:15:38,023] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.306 seconds
+[2021-08-30 10:16:08,227] {processor.py:162} INFO - Started process (PID=9351) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:16:08,233] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:16:08,238] {logging_mixin.py:109} INFO - [2021-08-30 10:16:08,237] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:16:08,416] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:16:08,458] {logging_mixin.py:109} INFO - [2021-08-30 10:16:08,458] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:16:08,501] {logging_mixin.py:109} INFO - [2021-08-30 10:16:08,501] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:16:08,534] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.312 seconds
+[2021-08-30 10:16:38,859] {processor.py:162} INFO - Started process (PID=9392) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:16:38,864] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:16:38,868] {logging_mixin.py:109} INFO - [2021-08-30 10:16:38,867] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:16:38,962] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:16:38,973] {logging_mixin.py:109} INFO - [2021-08-30 10:16:38,973] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:16:38,982] {logging_mixin.py:109} INFO - [2021-08-30 10:16:38,982] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:16:38,997] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.149 seconds
+[2021-08-30 10:17:09,239] {processor.py:162} INFO - Started process (PID=9412) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:17:09,241] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:17:09,244] {logging_mixin.py:109} INFO - [2021-08-30 10:17:09,243] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:17:09,484] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:17:09,532] {logging_mixin.py:109} INFO - [2021-08-30 10:17:09,532] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:17:09,578] {logging_mixin.py:109} INFO - [2021-08-30 10:17:09,578] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:17:09,644] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.411 seconds
+[2021-08-30 10:17:39,957] {processor.py:162} INFO - Started process (PID=9462) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:17:39,958] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:17:39,959] {logging_mixin.py:109} INFO - [2021-08-30 10:17:39,959] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:17:40,030] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:17:40,042] {logging_mixin.py:109} INFO - [2021-08-30 10:17:40,042] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:17:40,052] {logging_mixin.py:109} INFO - [2021-08-30 10:17:40,052] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:17:40,068] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.114 seconds
+[2021-08-30 10:18:10,320] {processor.py:162} INFO - Started process (PID=9488) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:18:10,323] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:18:10,326] {logging_mixin.py:109} INFO - [2021-08-30 10:18:10,326] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:18:10,402] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:18:10,413] {logging_mixin.py:109} INFO - [2021-08-30 10:18:10,413] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:18:10,422] {logging_mixin.py:109} INFO - [2021-08-30 10:18:10,422] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:18:10,437] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.126 seconds
+[2021-08-30 10:18:40,602] {processor.py:162} INFO - Started process (PID=9501) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:18:40,606] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:18:40,608] {logging_mixin.py:109} INFO - [2021-08-30 10:18:40,608] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:18:40,715] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:18:40,727] {logging_mixin.py:109} INFO - [2021-08-30 10:18:40,726] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:18:40,735] {logging_mixin.py:109} INFO - [2021-08-30 10:18:40,735] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:18:40,755] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.164 seconds
+[2021-08-30 10:19:10,994] {processor.py:162} INFO - Started process (PID=9511) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:19:11,188] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:19:11,190] {logging_mixin.py:109} INFO - [2021-08-30 10:19:11,189] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:19:11,251] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:19:11,283] {logging_mixin.py:109} INFO - [2021-08-30 10:19:11,283] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:19:11,311] {logging_mixin.py:109} INFO - [2021-08-30 10:19:11,311] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:19:11,361] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.374 seconds
+[2021-08-30 10:19:41,628] {processor.py:162} INFO - Started process (PID=9534) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:19:41,631] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:19:41,634] {logging_mixin.py:109} INFO - [2021-08-30 10:19:41,634] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:19:41,673] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:19:41,715] {logging_mixin.py:109} INFO - [2021-08-30 10:19:41,713] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:19:41,742] {logging_mixin.py:109} INFO - [2021-08-30 10:19:41,740] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:19:41,787] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.172 seconds
+[2021-08-30 10:20:12,007] {processor.py:162} INFO - Started process (PID=9545) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:20:12,011] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:20:12,012] {logging_mixin.py:109} INFO - [2021-08-30 10:20:12,012] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:20:12,055] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:20:12,107] {logging_mixin.py:109} INFO - [2021-08-30 10:20:12,107] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:20:12,155] {logging_mixin.py:109} INFO - [2021-08-30 10:20:12,154] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:20:12,234] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.239 seconds
+[2021-08-30 10:20:42,352] {processor.py:162} INFO - Started process (PID=9557) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:20:42,354] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:20:42,355] {logging_mixin.py:109} INFO - [2021-08-30 10:20:42,355] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:20:42,373] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:20:42,386] {logging_mixin.py:109} INFO - [2021-08-30 10:20:42,386] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:20:42,396] {logging_mixin.py:109} INFO - [2021-08-30 10:20:42,396] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:20:42,412] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.062 seconds
+[2021-08-30 10:21:12,658] {processor.py:162} INFO - Started process (PID=9588) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:21:12,661] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:21:12,663] {logging_mixin.py:109} INFO - [2021-08-30 10:21:12,662] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:21:12,693] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:21:12,715] {logging_mixin.py:109} INFO - [2021-08-30 10:21:12,715] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:21:12,733] {logging_mixin.py:109} INFO - [2021-08-30 10:21:12,733] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:21:12,755] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.109 seconds
+[2021-08-30 10:21:42,972] {processor.py:162} INFO - Started process (PID=9673) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:21:42,977] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:21:42,980] {logging_mixin.py:109} INFO - [2021-08-30 10:21:42,980] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:21:43,045] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:21:43,093] {logging_mixin.py:109} INFO - [2021-08-30 10:21:43,092] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:21:43,128] {logging_mixin.py:109} INFO - [2021-08-30 10:21:43,127] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:21:43,165] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.201 seconds
+[2021-08-30 10:22:13,434] {processor.py:162} INFO - Started process (PID=9682) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:22:13,441] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:22:13,442] {logging_mixin.py:109} INFO - [2021-08-30 10:22:13,442] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:22:13,494] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:22:13,539] {logging_mixin.py:109} INFO - [2021-08-30 10:22:13,539] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:22:13,578] {logging_mixin.py:109} INFO - [2021-08-30 10:22:13,578] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:22:13,615] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.188 seconds
+[2021-08-30 10:22:43,729] {processor.py:162} INFO - Started process (PID=9714) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:22:43,731] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:22:43,733] {logging_mixin.py:109} INFO - [2021-08-30 10:22:43,732] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:22:43,790] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:22:43,839] {logging_mixin.py:109} INFO - [2021-08-30 10:22:43,838] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:22:43,886] {logging_mixin.py:109} INFO - [2021-08-30 10:22:43,885] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:22:43,928] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.212 seconds
+[2021-08-30 10:23:14,251] {processor.py:162} INFO - Started process (PID=9841) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:23:14,256] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:23:14,259] {logging_mixin.py:109} INFO - [2021-08-30 10:23:14,259] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:23:14,286] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:23:14,304] {logging_mixin.py:109} INFO - [2021-08-30 10:23:14,304] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:23:14,314] {logging_mixin.py:109} INFO - [2021-08-30 10:23:14,313] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:23:14,329] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.090 seconds
+[2021-08-30 10:23:44,625] {processor.py:162} INFO - Started process (PID=9854) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:23:44,638] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:23:44,642] {logging_mixin.py:109} INFO - [2021-08-30 10:23:44,642] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:23:44,710] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:23:44,774] {logging_mixin.py:109} INFO - [2021-08-30 10:23:44,774] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:23:44,823] {logging_mixin.py:109} INFO - [2021-08-30 10:23:44,823] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:23:44,871] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.251 seconds
+[2021-08-30 10:24:14,999] {processor.py:162} INFO - Started process (PID=9880) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:24:15,003] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:24:15,005] {logging_mixin.py:109} INFO - [2021-08-30 10:24:15,005] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:24:15,047] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:24:15,064] {logging_mixin.py:109} INFO - [2021-08-30 10:24:15,064] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:24:15,074] {logging_mixin.py:109} INFO - [2021-08-30 10:24:15,074] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:24:15,094] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.106 seconds
+[2021-08-30 10:24:45,297] {processor.py:162} INFO - Started process (PID=9975) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:24:45,299] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:24:45,300] {logging_mixin.py:109} INFO - [2021-08-30 10:24:45,300] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:24:45,348] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:24:45,371] {logging_mixin.py:109} INFO - [2021-08-30 10:24:45,371] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:24:45,386] {logging_mixin.py:109} INFO - [2021-08-30 10:24:45,386] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:24:45,405] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.115 seconds
+[2021-08-30 10:25:15,607] {processor.py:162} INFO - Started process (PID=10015) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:25:15,611] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:25:15,612] {logging_mixin.py:109} INFO - [2021-08-30 10:25:15,612] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:25:15,636] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:25:15,648] {logging_mixin.py:109} INFO - [2021-08-30 10:25:15,648] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:25:15,657] {logging_mixin.py:109} INFO - [2021-08-30 10:25:15,657] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:25:15,673] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.075 seconds
+[2021-08-30 10:25:45,805] {processor.py:162} INFO - Started process (PID=10046) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:25:45,808] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:25:45,811] {logging_mixin.py:109} INFO - [2021-08-30 10:25:45,810] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:25:45,829] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:25:45,841] {logging_mixin.py:109} INFO - [2021-08-30 10:25:45,841] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:25:45,850] {logging_mixin.py:109} INFO - [2021-08-30 10:25:45,850] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:25:45,867] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.069 seconds
+[2021-08-30 10:26:15,928] {processor.py:162} INFO - Started process (PID=10063) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:26:15,932] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:26:15,933] {logging_mixin.py:109} INFO - [2021-08-30 10:26:15,933] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:26:15,950] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:26:15,963] {logging_mixin.py:109} INFO - [2021-08-30 10:26:15,962] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:26:15,971] {logging_mixin.py:109} INFO - [2021-08-30 10:26:15,971] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:26:15,987] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.066 seconds
+[2021-08-30 10:26:46,130] {processor.py:162} INFO - Started process (PID=10105) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:26:46,132] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:26:46,134] {logging_mixin.py:109} INFO - [2021-08-30 10:26:46,133] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:26:46,153] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:26:46,165] {logging_mixin.py:109} INFO - [2021-08-30 10:26:46,164] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:26:46,174] {logging_mixin.py:109} INFO - [2021-08-30 10:26:46,173] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:26:46,189] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.066 seconds
+[2021-08-30 10:27:16,322] {processor.py:162} INFO - Started process (PID=10125) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:27:16,325] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:27:16,326] {logging_mixin.py:109} INFO - [2021-08-30 10:27:16,326] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:27:16,349] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:27:16,361] {logging_mixin.py:109} INFO - [2021-08-30 10:27:16,361] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:27:16,369] {logging_mixin.py:109} INFO - [2021-08-30 10:27:16,369] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:27:16,384] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.068 seconds
+[2021-08-30 10:27:46,504] {processor.py:162} INFO - Started process (PID=10141) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:27:46,505] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:27:46,506] {logging_mixin.py:109} INFO - [2021-08-30 10:27:46,506] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:27:46,524] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:27:46,543] {logging_mixin.py:109} INFO - [2021-08-30 10:27:46,543] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:27:46,553] {logging_mixin.py:109} INFO - [2021-08-30 10:27:46,553] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:27:46,569] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.068 seconds
+[2021-08-30 10:28:16,716] {processor.py:162} INFO - Started process (PID=10164) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:28:16,720] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:28:16,722] {logging_mixin.py:109} INFO - [2021-08-30 10:28:16,721] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:28:16,742] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:28:16,753] {logging_mixin.py:109} INFO - [2021-08-30 10:28:16,753] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:28:16,762] {logging_mixin.py:109} INFO - [2021-08-30 10:28:16,762] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:28:16,777] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.068 seconds
+[2021-08-30 10:28:46,881] {processor.py:162} INFO - Started process (PID=10179) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:28:46,882] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:28:46,883] {logging_mixin.py:109} INFO - [2021-08-30 10:28:46,883] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:28:46,897] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:28:46,911] {logging_mixin.py:109} INFO - [2021-08-30 10:28:46,911] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:28:46,921] {logging_mixin.py:109} INFO - [2021-08-30 10:28:46,921] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:28:46,952] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.073 seconds
+[2021-08-30 10:29:17,066] {processor.py:162} INFO - Started process (PID=10199) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:29:17,067] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:29:17,068] {logging_mixin.py:109} INFO - [2021-08-30 10:29:17,068] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:29:17,083] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:29:17,115] {logging_mixin.py:109} INFO - [2021-08-30 10:29:17,115] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:29:17,129] {logging_mixin.py:109} INFO - [2021-08-30 10:29:17,129] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:29:17,178] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.115 seconds
+[2021-08-30 10:29:47,363] {processor.py:162} INFO - Started process (PID=10252) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:29:47,365] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:29:47,366] {logging_mixin.py:109} INFO - [2021-08-30 10:29:47,366] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:29:47,381] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:29:47,398] {logging_mixin.py:109} INFO - [2021-08-30 10:29:47,398] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:29:47,412] {logging_mixin.py:109} INFO - [2021-08-30 10:29:47,412] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:29:47,430] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.071 seconds
+[2021-08-30 10:30:17,577] {processor.py:162} INFO - Started process (PID=10277) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:30:17,579] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:30:17,581] {logging_mixin.py:109} INFO - [2021-08-30 10:30:17,580] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:30:17,604] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:30:17,615] {logging_mixin.py:109} INFO - [2021-08-30 10:30:17,615] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:30:17,624] {logging_mixin.py:109} INFO - [2021-08-30 10:30:17,624] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:30:17,639] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.069 seconds
+[2021-08-30 10:30:47,713] {processor.py:162} INFO - Started process (PID=10299) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:30:47,715] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:30:47,716] {logging_mixin.py:109} INFO - [2021-08-30 10:30:47,716] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:30:47,735] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:30:47,746] {logging_mixin.py:109} INFO - [2021-08-30 10:30:47,746] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:30:47,755] {logging_mixin.py:109} INFO - [2021-08-30 10:30:47,755] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:30:47,770] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.064 seconds
+[2021-08-30 10:31:17,922] {processor.py:162} INFO - Started process (PID=10338) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:31:17,931] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:31:17,934] {logging_mixin.py:109} INFO - [2021-08-30 10:31:17,933] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:31:17,992] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:31:18,014] {logging_mixin.py:109} INFO - [2021-08-30 10:31:18,014] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:31:18,040] {logging_mixin.py:109} INFO - [2021-08-30 10:31:18,039] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:31:18,060] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.150 seconds
+[2021-08-30 10:31:48,286] {processor.py:162} INFO - Started process (PID=10449) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:31:48,290] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:31:48,293] {logging_mixin.py:109} INFO - [2021-08-30 10:31:48,292] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:31:48,321] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:31:48,334] {logging_mixin.py:109} INFO - [2021-08-30 10:31:48,333] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:31:48,345] {logging_mixin.py:109} INFO - [2021-08-30 10:31:48,345] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:31:48,365] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.089 seconds
+[2021-08-30 10:32:18,756] {processor.py:162} INFO - Started process (PID=10468) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:32:18,758] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:32:18,759] {logging_mixin.py:109} INFO - [2021-08-30 10:32:18,759] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:32:18,796] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:32:18,837] {logging_mixin.py:109} INFO - [2021-08-30 10:32:18,837] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:32:18,868] {logging_mixin.py:109} INFO - [2021-08-30 10:32:18,868] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:32:18,907] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.159 seconds
+[2021-08-30 10:32:49,154] {processor.py:162} INFO - Started process (PID=10487) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:32:49,156] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:32:49,157] {logging_mixin.py:109} INFO - [2021-08-30 10:32:49,157] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:32:49,186] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:32:49,212] {logging_mixin.py:109} INFO - [2021-08-30 10:32:49,212] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:32:49,228] {logging_mixin.py:109} INFO - [2021-08-30 10:32:49,228] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:32:49,248] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.097 seconds
+[2021-08-30 10:33:19,587] {processor.py:162} INFO - Started process (PID=10501) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:33:19,590] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:33:19,593] {logging_mixin.py:109} INFO - [2021-08-30 10:33:19,592] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:33:19,651] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:33:19,672] {logging_mixin.py:109} INFO - [2021-08-30 10:33:19,672] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:33:19,686] {logging_mixin.py:109} INFO - [2021-08-30 10:33:19,686] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:33:19,702] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.125 seconds
+[2021-08-30 10:33:49,814] {processor.py:162} INFO - Started process (PID=10511) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:33:49,819] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:33:49,822] {logging_mixin.py:109} INFO - [2021-08-30 10:33:49,821] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:33:49,879] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:33:49,901] {logging_mixin.py:109} INFO - [2021-08-30 10:33:49,901] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:33:49,915] {logging_mixin.py:109} INFO - [2021-08-30 10:33:49,915] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:33:49,933] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.128 seconds
+[2021-08-30 10:34:20,214] {processor.py:162} INFO - Started process (PID=10526) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:34:20,222] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:34:20,225] {logging_mixin.py:109} INFO - [2021-08-30 10:34:20,224] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:34:20,265] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:34:20,285] {logging_mixin.py:109} INFO - [2021-08-30 10:34:20,285] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:34:20,300] {logging_mixin.py:109} INFO - [2021-08-30 10:34:20,300] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:34:20,321] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.119 seconds
+[2021-08-30 10:34:50,500] {processor.py:162} INFO - Started process (PID=10549) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:34:50,501] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:34:50,502] {logging_mixin.py:109} INFO - [2021-08-30 10:34:50,501] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:34:50,515] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:34:50,527] {logging_mixin.py:109} INFO - [2021-08-30 10:34:50,527] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:34:50,538] {logging_mixin.py:109} INFO - [2021-08-30 10:34:50,537] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:34:50,553] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.056 seconds
+[2021-08-30 10:35:20,687] {processor.py:162} INFO - Started process (PID=10666) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:35:20,689] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:35:20,691] {logging_mixin.py:109} INFO - [2021-08-30 10:35:20,691] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:35:20,713] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:35:20,725] {logging_mixin.py:109} INFO - [2021-08-30 10:35:20,725] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:35:20,734] {logging_mixin.py:109} INFO - [2021-08-30 10:35:20,733] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00
+[2021-08-30 10:35:20,749] {processor.py:170} INFO - Processing /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py took 0.069 seconds
+[2021-08-30 10:35:50,900] {processor.py:162} INFO - Started process (PID=10755) to work on /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:35:50,902] {processor.py:613} INFO - Processing file /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py for tasks to queue
+[2021-08-30 10:35:50,903] {logging_mixin.py:109} INFO - [2021-08-30 10:35:50,902] {dagbag.py:496} INFO - Filling up the DagBag from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:35:50,920] {processor.py:623} INFO - DAG(s) dict_keys(['workflow']) retrieved from /home/paolo/Documents/Github/case-study-1-october2020-data-sweepers/DataProcessing/dags/workflow.py
+[2021-08-30 10:35:50,937] {logging_mixin.py:109} INFO - [2021-08-30 10:35:50,937] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-30 10:35:50,948] {logging_mixin.py:109} INFO - [2021-08-30 10:35:50,948] {dag.py:2306} INFO - Setting next_dagrun for workflow to 2021-08-28 00:00:00+00:00

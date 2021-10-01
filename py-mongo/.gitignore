@@ -1,0 +1,5 @@
+.vscode
+DataExtraction/config.py
+*__pycache__*
+/cs-venv/*
+/cs-venv/*.*

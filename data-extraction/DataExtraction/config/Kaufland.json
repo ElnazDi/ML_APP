@@ -1,0 +1,32 @@
+{
+  "homepage": "https://filiale.kaufland.de/sortiment/das-sortiment.html",
+  "cookieModal": ".cookie-alert-extended-modal",
+  "cookieButton": ".cookie-alert-extended-button",
+  "paginationButton": ".m-pagination__link[aria-label=\"Seite Weiter\"]",
+  "parentSelector": ".m-offer-tile",
+  "children": [{
+        "selector": ".a-image-responsive",
+        "tag": "imgSrc",
+        "property": "src"
+      }, {
+        "selector": ".a-pricetag__price",
+        "tag": "price",
+        "property": "innerHTML"
+      }, {
+        "selector": ".m-offer-tile__subtitle",
+        "tag": "brand",
+        "property": "innerHTML"
+      }, {
+        "selector": ".m-offer-tile__title",
+        "tag": "title",
+        "property": "innerHTML"
+      }, {
+        "selector": ".m-offer-tile__quantity",
+        "tag": "quantity",
+        "property": "innerHTML"
+      }, {
+        "selector": ".m-offer-tile__basic-price",
+        "tag": "basePrice",
+        "property": "innerHTML"
+      }]
+}

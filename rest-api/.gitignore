@@ -1,0 +1,13 @@
+.vscode
+DataExtraction/config.py
+*__pycache__*
+/cs-venv/*
+/cs-venv/*.*
+DataExtraction/config.py
+DataExtraction/logfile
+ENV
+config.py
+*node_modules/*
+Customer WebApp/Backend/config.json
+Customer WebApp/Backend/node_modules/*
+Customer WebApp/Backend/package-lock.json
